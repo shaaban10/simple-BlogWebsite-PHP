@@ -1,3 +1,6 @@
+<?php
+include('header.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,15 +11,6 @@
    
 </head>
 <body>
-<ul>
-<a href="index.php" class="Brand-logo" >Blog</a>
-
-<li style="float:right"><a href="about.php">About</a></li>
-  <li><a href="post.php">Add post</a></li>
-
-  <li><a href="index.php"class="active" >Home</a></li>
-
-</ul>
 
 <div class="about-section">
   <h1>About Us Page</h1>
